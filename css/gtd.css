@@ -15,7 +15,7 @@ body {
 }
 
 .reveal {
-  font-family: "Rubik", sans-serif;
+  font-family: sans-serif;
   font-size: 40px;
   font-weight: normal;
   color: #100007;
@@ -48,7 +48,7 @@ body {
 .reveal h4 {
   margin: 0 0 20px 0;
   color: #083D77;
-  font-family: "Rubik", sans-serif;
+  font-family: sans-serif;
   font-weight: normal;
   line-height: 1.2;
   letter-spacing: normal;
@@ -172,7 +172,7 @@ body {
 ******************************************/
 
 .reveal .splash {
-  background: url(../white-dot.png);
+  background: url(../img/white-dot.png);
   background-repeat: repeat;
 }
 
